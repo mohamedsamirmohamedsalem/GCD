@@ -1,10 +1,11 @@
 //
 //  AppDelegate.swift
-//  GCDSamples
+//  RXSwift_Examples
 //
-//  Created by Gabriel Theodoropoulos on 07/11/16.
-//  Copyright © 2016 Appcoda. All rights reserved.
+//  Created by msalem on 2/18/20.
+//  Copyright © 2020 msalem. All rights reserved.
 //
+
 
 import UIKit
 
@@ -14,7 +15,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
 
 
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         return true
     }
